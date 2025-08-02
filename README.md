@@ -28,8 +28,8 @@ A **simple and responsive Netflix Clone** built using **HTML and CSS**. This pro
 Feel free to reach out for feedback, suggestions, or collaboration!
 
 - 📧 Email: **danishwork29@gmail.com**
-- 🌐 Portfolio: *(https://danish-qureshi.vercel.app/)*
-- 💬 LinkedIn: *(https://www.linkedin.com/in/danishqureshi786/)*
+- 🌐 Portfolio: https://danish-qureshi.vercel.app/
+- 💬 LinkedIn: https://www.linkedin.com/in/danishqureshi786/
 
 ## 🙋‍♂️ Author
 
