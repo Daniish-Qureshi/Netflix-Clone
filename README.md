@@ -4,7 +4,7 @@ A **simple and responsive Netflix Clone** built using **HTML and CSS**. This pro
 
 ## 🚀 Live Demo
 
-🔗 [Click here to view the live demo](https://daniish-qureshi.github.io/Netflix-Clone/)
+🔗 [![View Live](https://img.shields.io/badge/Live-Demo-red?style=for-the-badge&logo=netflix)](https://daniish-qureshi.github.io/Netflix-Clone/)
 
 ## 📸 Screenshots
 
